@@ -27,7 +27,16 @@
 </head>
 
 <body>
-
+    <!--For FB Ticker-->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
     <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
@@ -83,7 +92,7 @@
 
         <!-- First Featurette -->
         <div class="featurette" id="about">
-            <img class="featurette-image img-circle img-responsive pull-right" src="http://placehold.it/500x500">
+            <div class="fb-page featurette-image img-responsive pull-right" data-href="https://www.facebook.com/Association-for-Computing-Machinery-SIUC-ACM-271774326659/" data-width="400" data-height="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>
             <h2 class="featurette-heading">About ACM
             </h2>
             <p class="lead">We're actively changing the culture around campus. We're actively changing the culture around campus. We're actively changing the culture around campus. We're actively changing the culture around campus. We're actively changing the culture around campus.</p>
@@ -112,7 +121,7 @@
         </div>
 
         <hr class="featurette-divider">
-
+            
         <!-- Footer -->
         <footer>
             <div class="row">
