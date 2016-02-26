@@ -7,7 +7,32 @@
         <!-- Team Members Row -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Our Team</h2>
+                <h2 class="page-header">2016 Officers</h2>
+            </div>
+            <div class="col-lg-4 col-sm-6 text-center">
+                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
+                <h3>Jacob Reed
+                    <small>Chair</small>
+                </h3>
+                <p>""</p>
+            </div>
+            <div class="col-lg-4 col-sm-6 text-center">
+                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
+                <h3>Ayush Kohli
+                    <small>Vice Chair</small>
+                </h3>
+                <p>""</p>
+            </div>
+            <div class="col-lg-4 col-sm-6 text-center">
+                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
+                <h3>John Smith
+                    <small>Job Title</small>
+                </h3>
+                <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+            </div>
+            
+            <div class="col-lg-12">
+                <h2 class="page-header">2015 Officers</h2>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
@@ -29,6 +54,10 @@
                     <small>Job Title</small>
                 </h3>
                 <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+            </div>
+
+            <div class="col-lg-12">
+                <h2 class="page-header">Past Officers</h2>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
