@@ -65,7 +65,7 @@
 
         <div class="featurette" id="contact">
             <h2 class="featurette-heading">Stay in the Loop!</h2>
-            <div class="fb-page featurette-image img-responsive" data-href="https://www.facebook.com/Association-for-Computing-Machinery-SIUC-ACM-271774326659/" data-width="500" data-height="500" data-small-header="true" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>
+            <div class="fb-page featurette-image img-responsive" data-href="https://www.facebook.com/Association-for-Computing-Machinery-SIUC-ACM-271774326659/" data-width="500" data-height="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>
             <div id="fb-root"></div>
         </div>
 </asp:Content>
