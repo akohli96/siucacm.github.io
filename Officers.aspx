@@ -60,11 +60,11 @@
                 <h2 class="page-header">Past Officers</h2>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
-                <h3>John Smith
-                    <small>Job Title</small>
+                <img class="img-circle img-responsive img-center" src="pics/andrews_pic.jpg" alt="">
+                <h3>Andrew Wichmann
+                    <small>Vice President</small>
                 </h3>
-                <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+                <p>I tried to make the ACM do something. They resisted.</p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
