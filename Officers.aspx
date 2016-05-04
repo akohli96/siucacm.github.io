@@ -67,11 +67,11 @@
                 <p>I tried to make the ACM do something. They resisted.</p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
-                <h3>John Smith
-                    <small>Job Title</small>
+                <img class="img-circle img-responsive img-center" src="pics/scott.png" alt="Scott Weaver">
+                <h3>Scott Weaver
+                    <small>Chair and President</small>
                 </h3>
-                <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+                <p><a href="https://github.com/unmonk">Github</a> || <a href="http://scottweaver.pro">Resume</a></p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
