@@ -60,7 +60,7 @@
                 <h2 class="page-header">Past Officers</h2>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="pics/andrews_pic.jpg" alt="" height="200px" width="200px">
+                <img class="img-circle img-responsive img-center" src="pics/andrews_pic.jpg" alt="Andrew Wichmann" height="200px" width="200px">
                 <h3>Andrew Wichmann
                     <small>Vice President</small>
                 </h3>
