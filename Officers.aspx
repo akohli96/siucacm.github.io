@@ -17,14 +17,14 @@
                 <p>""</p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="" height="200px" width="200px">
+                <img class="img-circle img-responsive img-center" src="pics/AK_Fresh.jpg" alt="" height="200px" width="200px">
                 <h3>Ayush Kohli
                     <small>Vice Chair</small>
                 </h3>
                 <p><a href="https://www.linkedin.com/in/ayushk96" target="_blank">LinkedIn</a> || <a href="http://github.com/akohli96" target="_blank">Github</a></p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="pics/AK_Fresh.jpg" alt="" height="200px" width="200px">
+                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="" height="200px" width="200px">
                 <h3>John Smith
                     <small>Job Title</small>
                 </h3>
