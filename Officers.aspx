@@ -10,7 +10,7 @@
                 <h2 class="page-header">2016 Officers</h2>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="" height="200px" width="200px">
+                <img class="img-circle img-responsive img-center" src="pics/jake_r.jpg" alt="" height="200px" width="200px">
                 <h3>Jacob Reed
                     <small>Chair</small>
                 </h3>
@@ -30,7 +30,7 @@
                 </h3>
                 <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
             </div>
-            
+
             <div class="col-lg-12">
                 <h2 class="page-header">2015 Officers</h2>
             </div>
@@ -82,4 +82,3 @@
             </div>
         </div>
 </asp:Content>
-
