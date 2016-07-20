@@ -14,7 +14,7 @@
                 <h3>Jacob Reed
                     <small>Chair</small>
                 </h3>
-                <p><a href="https://www.linkedin.com/in/jacob-reed-36929b73" target="_blank">LinkedIn</a> || <a href="https://github.com/jake32321" target="_blank">Github</a> || <a href="www.jake-reed.com" target="_blank">www.Jake-Reed.com</a></p>
+                <p><a href="https://www.linkedin.com/in/jacob-reed-36929b73" target="_blank">LinkedIn</a> || <a href="https://github.com/jake32321" target="_blank">Github</a> || <a href="www.jake-reed.com">www.Jake-Reed.com</a></p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="pics/AK_Fresh.jpg" alt="" height="200px" width="200px">
