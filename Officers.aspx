@@ -39,7 +39,7 @@
                 <h3>Ethan Richardson
                     <small>Chair</small>
                 </h3>
-                <p>"Good Hack"</p>
+                <p><a href="https://www.linkedin.com/in/ethan-richardson-854214b5" target="_blank">LinkedIn</a> || <a href="http://github.com/ethanx94" target="_blank">Github</a> || <a href="http://ethanx94.github.io">Website</a></p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="" height="200px" width="200px">
@@ -50,10 +50,10 @@
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="" height="200px" width="200px">
-                <h3>John Smith
-                    <small>Job Title</small>
+                <h3>Vincent Czubatiuk
+                    <small>Membership Officer</small>
                 </h3>
-                <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+                <p></p>
             </div>
 
             <div class="col-lg-12">
