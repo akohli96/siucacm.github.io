@@ -23,19 +23,12 @@
                 </h3>
                 <p><a href="https://www.linkedin.com/in/ayushk96" target="_blank">LinkedIn</a> || <a href="http://github.com/akohli96" target="_blank">Github</a></p>
             </div>
-            <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="" height="200px" width="200px">
-                <h3>John Smith
-                    <small>Job Title</small>
-                </h3>
-                <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
-            </div>
 
             <div class="col-lg-12">
                 <h2 class="page-header">2015 Officers</h2>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="" height="200px" width="200px">
+                <img class="img-circle img-responsive img-center" src="pics/EthanRichardson.png" alt="" height="200px" width="200px">
                 <h3>Ethan Richardson
                     <small>Chair</small>
                 </h3>
