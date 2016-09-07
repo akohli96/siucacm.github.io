@@ -35,11 +35,11 @@
                 <p><a href="https://www.linkedin.com/in/ethan-richardson-854214b5" target="_blank">LinkedIn</a> || <a href="http://github.com/ethanx94" target="_blank">Github</a> || <a href="http://ethanx94.github.io">Website</a></p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="" height="200px" width="200px">
+                <img class="img-circle img-responsive img-center" src="pics/Naru.jpeg" alt="" height="200px" width="200px">
                 <h3>Joshua Sonnenberg
                     <small>Vice Chair</small>
                 </h3>
-                <p>Guy Who Does Stuff Among Other Things</p>
+                <p><a href="http://github.com/Wolfgang375177" target="_blank">GitHub</a></p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="" height="200px" width="200px">
