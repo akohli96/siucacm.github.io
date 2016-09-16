@@ -23,6 +23,13 @@
                 </h3>
                 <p><a href="https://www.linkedin.com/in/ayushk96" target="_blank">LinkedIn</a> || <a href="http://github.com/akohli96" target="_blank">Github</a></p>
             </div>
+            <div class="col-lg-4 col-sm-6 text-center">
+                <img class="img-circle img-responsive img-center" src="pics/andrews_pic.jpg" alt="Andrew Wichmann" height="200px" width="200px">
+                <h3>Andrew Wichmann
+                    <small>Secretary</small>
+                </h3>
+                <p><a href="www.linkedin.com/in/andrew-wichmann" target="_blank">LinkedIn</a> || <a href="https://github.com/Andrew-Wichmann" target="_blank">Github</a> || <a href="http://www.jake-reed.com">www.Jake-Reed.com</a></p>
+            </div>
 
             <div class="col-lg-12">
                 <h2 class="page-header">2015 Officers</h2>
@@ -57,7 +64,7 @@
                 <h3>Andrew Wichmann
                     <small>Vice President</small>
                 </h3>
-                <p>I tried to make the ACM do something. They resisted.</p>
+                <p><a href="www.linkedin.com/in/andrew-wichmann" target="_blank">LinkedIn</a> || <a href="https://github.com/Andrew-Wichmann" target="_blank">Github</a> || <a href="http://www.jake-reed.com">www.Jake-Reed.com</a></p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="pics/scott.png" alt="Scott Weaver" height="200px" width="200px">
