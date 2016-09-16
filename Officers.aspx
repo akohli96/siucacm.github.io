@@ -30,6 +30,13 @@
                 </h3>
                 <p><a href="www.linkedin.com/in/andrew-wichmann" target="_blank">LinkedIn</a> || <a href="https://github.com/Andrew-Wichmann" target="_blank">Github</a></p>
             </div>
+            <div class="col-lg-4 col-sm-6 text-center">
+                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="" height="200px" width="200px">
+                <h3>Justin Jarrard
+                    <small>Vice Chair</small>
+                </h3>
+                <p><a href="https://github.com/Justin2375" target="_blank">GitHub</a></p>
+            </div>
 
             <div class="col-lg-12">
                 <h2 class="page-header">2015 Officers</h2>
@@ -47,6 +54,13 @@
                     <small>Vice Chair</small>
                 </h3>
                 <p><a href="http://github.com/Wolfgang375177" target="_blank">GitHub</a></p>
+            </div>
+            <div class="col-lg-4 col-sm-6 text-center">
+                <img class="img-circle img-responsive img-center" src="pics/AK_Fresh.jpg" alt="" height="200px" width="200px">
+                <h3>Ayush Kohli
+                    <small>Secretary|Treasurer</small>
+                </h3>
+                <p><a href="https://www.linkedin.com/in/ayushk96" target="_blank">LinkedIn</a> || <a href="http://github.com/akohli96" target="_blank">Github</a></p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="" height="200px" width="200px">
