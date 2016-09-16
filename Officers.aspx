@@ -28,7 +28,7 @@
                 <h3>Andrew Wichmann
                     <small>Secretary</small>
                 </h3>
-                <p><a href="www.linkedin.com/in/andrew-wichmann" target="_blank">LinkedIn</a> || <a href="https://github.com/Andrew-Wichmann" target="_blank">Github</a> || <a href="http://www.jake-reed.com">www.Jake-Reed.com</a></p>
+                <p><a href="www.linkedin.com/in/andrew-wichmann" target="_blank">LinkedIn</a> || <a href="https://github.com/Andrew-Wichmann" target="_blank">Github</a></p>
             </div>
 
             <div class="col-lg-12">
